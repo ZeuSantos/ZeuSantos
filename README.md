@@ -1,7 +1,10 @@
-**Oi! Sou Elizeu S. Souza.**<br>
+**My Pleasure, I'm Elizeu S. Souza,**
 
-&emsp;Um iniciante em C/C++ interessado em
-sistemas de baixo-nível. Também sou novo
-aqui no GitHub super entusiasmado em
-entrar de cabeça no mundo da programação
-de alta performance.
+Developer of the little *Meg Project*,
+I'm a person with great dreams as others
+pepople in the world. I'm not a good
+developer, but I think my project can 
+help someone in the futuere.
+
+Are you interested? Send me an e-mail,
+see my profile.
