@@ -1,6 +1,6 @@
 **My Pleasure, I'm Elizeu S. Souza,**
 
-Developer of the little *Meg Project*,
+Developer of the *Meg Project*,
 I'm a person with great dreams as others
 pepople in the world. I'm not a good
 developer, but I think my project can 
