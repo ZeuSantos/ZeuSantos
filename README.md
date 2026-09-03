@@ -6,5 +6,4 @@ pepople in the world. I'm not a good
 developer, but I think my project can 
 help someone in the futuere.
 
-Are you interested? Send me an e-mail,
-see my profile.
+Are you interested? Send me an e-mail.
